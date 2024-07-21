@@ -18,6 +18,8 @@ Excel and Google Sheet Spreadsheet creation/manipulation.
 
 - Completed Projects:
 
+- Project Ideas: Task Tracker, Basketball Shot Chart Creator
+
 
 <!---
 Mebben11/Mebben11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
