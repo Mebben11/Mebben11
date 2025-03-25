@@ -3,7 +3,7 @@ Introduction:
 - I am a Senior at the University of Wisconsin-Stevens Point who is studying Computer Information Systems and Web Development
 - I'm ambitious in learning more about software development, and hope to create more projects in the near future
 
-Objectives/Projects:
+Current Objectives/Projects:
 - YOLO Sports Identification and Statistics
 - Obsidian Notetaking and Transfer
 - AI Chatbot creation with Microsoft Azure
